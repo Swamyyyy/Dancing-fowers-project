@@ -8,7 +8,7 @@ An interactive dancing flower project using an Arduino UNO, five servo motors, a
 | Arduino UNO | 1 |
 | DG90 Servo Motor | 5 |
 | IR Sensor Module | 1 |
-| External 5V Power Supply | 1 |
+| External Power Supply > 5V| 1 |
 | Flower Structures | 5 |
 | Jumper Wires | As required |
 
